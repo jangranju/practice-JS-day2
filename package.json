@@ -1,0 +1,15 @@
+{
+  "name": "practice-js",
+  "version": "0.0.1",
+  "description": "This is my JS assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anju",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  }
+}
